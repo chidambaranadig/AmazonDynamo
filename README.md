@@ -4,7 +4,7 @@ AmazonDynamo
 This is a Simplified Version of the Amazon Dynamo Protocol to maintain a Distributed Hash Table on 3 Android Devices.
 The minimum SDKversion for this application is 16.
 
-The .apk file has not been provided.
+All files in this project have been coded by me. The .apk file has not been provided.
 
 Working:
 1) The Application makes use of TCP sockets to communicate with each device.
